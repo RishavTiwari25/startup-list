@@ -13,6 +13,7 @@ A running list of startups I came across during my job hunt (2026). The email is
 | ClaimBuddy | hr@claimbuddy.in |
 | ClickPe |  |
 | CometChat |  |
+| CommerceV3 |  |
 | Credgenics |  |
 | CynLr | contact@cynlr.com |
 | Dhruva Space | careers@dhruvaspace.com |
@@ -25,6 +26,7 @@ A running list of startups I came across during my job hunt (2026). The email is
 | IDfy |  |
 | Impact Analytics | contact@impactanalytics.ai |
 | Intangles | recruitment@intangles.com |
+| InterviewVector | contact@interviewvector.com |
 | Kaleidofin |  |
 | Kuku FM |  |
 | M2P Fintech |  |
