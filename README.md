@@ -7,6 +7,7 @@ A running list of startups I came across during my job hunt (2026). The email is
 | Aereo | contact@aereo.io |
 | Assert AI |  |
 | Assiduus |  |
+| Astra Security |  |
 | Binocs |  |
 | Bug0 (Hashnode) |  |
 | byteXL |  |
@@ -16,11 +17,15 @@ A running list of startups I came across during my job hunt (2026). The email is
 | CommerceV3 |  |
 | Credgenics |  |
 | CynLr | contact@cynlr.com |
+| Datazip |  |
+| Decentro |  |
 | Dhruva Space | careers@dhruvaspace.com |
 | EduFund |  |
 | Esyasoft | contact@esyasoft.com |
+| Fairdeal Market | careers@fairdeal.market |
 | Frappe |  |
 | Get My Parking |  |
+| Graas | info@graas.ai |
 | GyanDhan |  |
 | Hevo Data | careers@hevodata.com |
 | IDfy |  |
@@ -28,8 +33,12 @@ A running list of startups I came across during my job hunt (2026). The email is
 | Intangles | recruitment@intangles.com |
 | InterviewVector | contact@interviewvector.com |
 | Kaleidofin |  |
+| Knight FinTech | hello@knightfintech.com |
 | Kuku FM |  |
+| Leegality |  |
 | M2P Fintech |  |
+| Matrice.ai |  |
+| Mihup |  |
 | Mojro |  |
 | Myelin Foundry |  |
 | MyGate |  |
@@ -50,13 +59,19 @@ A running list of startups I came across during my job hunt (2026). The email is
 | StrideOne |  |
 | Stylework |  |
 | SuperKalam | join@superkalam.com |
+| SwitchOn |  |
 | Tartan |  |
 | The Wedding Company | careers@theweddingcompany.com |
 | ToneTag |  |
 | Track3D |  |
+| Trademo | hello@trademo.com |
+| TransBnk |  |
 | TravClan |  |
 | TurboHire |  |
 | TyrePlex |  |
+| Unbox Robotics | hello@unboxrobotics.com |
+| Uncia | hr@uncia.ai |
+| UptimeAI |  |
 | VAMA |  |
 | Varaha | careers@varahaag.com |
 | Vitraya Technologies |  |
