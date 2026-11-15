@@ -4,17 +4,23 @@ A running list of startups I came across during my job hunt (2026). The email is
 
 | Company | Email |
 |---|---|
+| Aerem |  |
 | Aereo | contact@aereo.io |
+| Albert Invent |  |
+| AlgoTest |  |
 | Assert AI |  |
+| AssetPlus |  |
 | Assiduus |  |
 | Astra Security |  |
 | Binocs |  |
 | Bug0 (Hashnode) |  |
+| Bytebeam |  |
 | byteXL |  |
 | ClaimBuddy | hr@claimbuddy.in |
 | ClickPe |  |
 | CometChat |  |
 | CommerceV3 |  |
+| CoverStack |  |
 | Credgenics |  |
 | CynLr | contact@cynlr.com |
 | Datazip |  |
@@ -23,7 +29,9 @@ A running list of startups I came across during my job hunt (2026). The email is
 | EduFund |  |
 | Esyasoft | contact@esyasoft.com |
 | Fairdeal Market | careers@fairdeal.market |
+| Fieldproxy |  |
 | Frappe |  |
+| Gallabox |  |
 | Get My Parking |  |
 | Graas | info@graas.ai |
 | GyanDhan |  |
@@ -35,6 +43,7 @@ A running list of startups I came across during my job hunt (2026). The email is
 | Kaleidofin |  |
 | Knight FinTech | hello@knightfintech.com |
 | Kuku FM |  |
+| Kula |  |
 | Leegality |  |
 | M2P Fintech |  |
 | Matrice.ai |  |
@@ -42,18 +51,23 @@ A running list of startups I came across during my job hunt (2026). The email is
 | Mojro |  |
 | Myelin Foundry |  |
 | MyGate |  |
+| New Street Tech | careers@newstreettech.com |
 | NIRA |  |
 | NowPurchase |  |
 | Octo (InfyBytes AI Labs) |  |
 | Origin |  |
+| Ottonomy |  |
 | Pelocal |  |
 | Perfios |  |
 | Piston |  |
 | Qube Health |  |
 | Recykal |  |
 | Rupeek |  |
+| Scrut Automation |  |
 | Sedai |  |
+| ShopDeck |  |
 | SimpliContract |  |
+| Spendflo |  |
 | Spyne | info@spyne.ai |
 | STAN |  |
 | StrideOne |  |
@@ -71,6 +85,7 @@ A running list of startups I came across during my job hunt (2026). The email is
 | TyrePlex |  |
 | Unbox Robotics | hello@unboxrobotics.com |
 | Uncia | hr@uncia.ai |
+| Univest |  |
 | UptimeAI |  |
 | VAMA |  |
 | Varaha | careers@varahaag.com |
