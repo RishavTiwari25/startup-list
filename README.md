@@ -1,0 +1,61 @@
+# Startup list
+
+A running list of startups I came across during my job hunt (2026).
+
+- Aereo
+- Assert AI
+- Assiduus
+- Binocs
+- Bug0 (Hashnode)
+- byteXL
+- ClaimBuddy
+- ClickPe
+- CometChat
+- Credgenics
+- CynLr
+- Dhruva Space
+- EduFund
+- Esyasoft
+- Frappe
+- Get My Parking
+- GyanDhan
+- Hevo Data
+- IDfy
+- Impact Analytics
+- Intangles
+- Kaleidofin
+- Kuku FM
+- M2P Fintech
+- Mojro
+- Myelin Foundry
+- MyGate
+- NIRA
+- NowPurchase
+- Octo (InfyBytes AI Labs)
+- Origin
+- Pelocal
+- Perfios
+- Piston
+- Qube Health
+- Recykal
+- Rupeek
+- Sedai
+- SimpliContract
+- Spyne
+- STAN
+- StrideOne
+- Stylework
+- SuperKalam
+- Tartan
+- The Wedding Company
+- ToneTag
+- Track3D
+- TravClan
+- TurboHire
+- TyrePlex
+- VAMA
+- Varaha
+- Vitraya Technologies
+- Wiom
+- ZFunds
+- Zorit (ex-Bijnis)
